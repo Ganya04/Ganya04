@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/abhirambj/abhirambj/main/name.svg" alt="Ganya Janardhan" />
+  <img src="https://raw.githubusercontent.com/Ganya04/Ganya04/main/name.svg" alt="Ganya Janardhan" />
 </h1>
 
 ## Hey! 👋
@@ -11,9 +11,9 @@ I'm Ganya Janardhan, a **Software Engineer** and **Data Analyst** based in Chica
 
 Proficient in React.js, SQL, AWS, Python, and Docker, I specialize in creating dynamic interfaces, optimizing database performance, and leveraging cloud technologies for seamless applications. With experience in machine learning models and interactive dashboards, I continuously expand my expertise through certifications and impactful projects, driving innovation and digital transformation.
 
-[![Twitter: AbhiramBJ](https://img.shields.io/twitter/follow/el3ctr9n?style=social)](https://x.com/ganya_janardhan)
-[![Linkedin: abhirambj](https://img.shields.io/badge/-abhirambj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhirambj/)](https://www.linkedin.com/in/ganya-janardhan/)
-[![GitHub AbhiramBJ](https://img.shields.io/github/followers/abhirambj?label=follow&style=social)](https://github.com/Ganya04)
+[![Twitter: Ganya Janardhan](https://img.shields.io/twitter/follow/ganya_janardhan?style=social)](https://x.com/ganya_janardhan)  
+[![LinkedIn: Ganya Janardhan](https://img.shields.io/badge/-ganya--janardhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganya-janardhan/)](https://www.linkedin.com/in/ganya-janardhan/)  
+[![GitHub: Ganya Janardhan](https://img.shields.io/github/followers/Ganya04?label=follow&style=social)](https://github.com/Ganya04)
 
 ---
 
