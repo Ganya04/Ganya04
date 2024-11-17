@@ -1,59 +1,76 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/abhirambj/abhirambj/main/name.svg" alt="Abhiram B J" />
+  <img src="https://raw.githubusercontent.com/abhirambj/abhirambj/main/name.svg" alt="Ganya Janardhan" />
 </h1>
 
 ## Hey! 👋
 
-I'm Abhiram Bylahalli Jagadish, a 24-year-old **Full Stack Developer** currently based in **Chicago, IL**, with over 2 years of professional experience building **cloud-based, scalable, and high-performance web applications**. I'm passionate about **cloud technologies, DevOps practices**, and driving **digital transformation**. 
-
+I'm Ganya Janardhan, a **Software Engineer** and **Data Analyst** based in Chicago, IL, with 2+ years of experience designing scalable, high-performance web applications and data-driven solutions.  
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
-<p><em>Graduate student at <a href="https://www.iit.edu/">Illinois Institute of Technology, Chicago</a> pursuing a Master's in Information Technology and Management <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>I hold a Master's in Computer Science from <a href="https://www.iit.edu/">Illinois Institute of Technology, Chicago</a>  specializing in Data Analytics. Currently, I work as a Software Engineer at Neuro Leap Corporation, where I focus on building modular, scalable web applications, optimizing performance, and ensuring seamless integration of front-end and back-end systems. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-I'm proficient in **ReactJS, Spring Boot, Node.js, TypeScript, Java, Python and AWS**, and I love contributing to open-source projects and collaborating with tech communities. I’m currently completing my **AWS Certified Solutions Architect Associate** certification and constantly enhancing my skillset with hands-on projects.
+Proficient in React.js, SQL, AWS, Python, and Docker, I specialize in creating dynamic interfaces, optimizing database performance, and leveraging cloud technologies for seamless applications. With experience in machine learning models and interactive dashboards, I continuously expand my expertise through certifications and impactful projects, driving innovation and digital transformation.
 
-[![Twitter: AbhiramBJ](https://img.shields.io/twitter/follow/el3ctr9n?style=social)](https://twitter.com/EL3CTR9N)
-[![Linkedin: abhirambj](https://img.shields.io/badge/-abhirambj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhirambj/)](https://www.linkedin.com/in/abhirambj/)
-[![GitHub AbhiramBJ](https://img.shields.io/github/followers/abhirambj?label=follow&style=social)](https://github.com/abhirambj)
+[![Twitter: AbhiramBJ](https://img.shields.io/twitter/follow/el3ctr9n?style=social)](https://x.com/ganya_janardhan)
+[![Linkedin: abhirambj](https://img.shields.io/badge/-abhirambj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhirambj/)](https://www.linkedin.com/in/ganya-janardhan/)
+[![GitHub AbhiramBJ](https://img.shields.io/github/followers/abhirambj?label=follow&style=social)](https://github.com/Ganya04)
 
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...  
 
 ```javascript
-const abhiram = {
-  pronouns: "he" | "him",
+const ganya = {
+  pronouns: "she" | "her",
   code: ["Javascript", "TypeScript", "HTML", "CSS", "Python", "Java", "ReactJS", "Spring Boot", "Node.js", "NextJS", "FastAPI"],
-  cloudTechnologies: ["AWS", "Docker", "Kubernetes", "Oracle Cloud"],
+  cloudTechnologies: ["AWS", "Docker", "Kubernetes", "AWS Cloud"],
   architecture: ["microservices", "event-driven", "serverless", "design system pattern"],
   databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
   security: ["OAuth 2.0", "JWT", "OpenID Connect", "Argon2", "SSL/TLS"],
   techCommunities: {
-                      systemAdministrator: "GLUE (GECH Linux Users Enthusiasts)",
-                      coordinator: "GLUE (GECH Linux Users Enthusiasts)",
-                      speaker: "GLUE (GECH Linux Users Enthusiasts)",
-                      mentor: "GLUE (GECH Linux Users Enthusiasts)"
+                      systemAdministrator: "DSC (Developers Students Club of Google)",
+                      coordinator: "TAP (Training and Placement Department)",
+                      speaker: "ASPERA (ASPERA - Entrepreneurship Cell)",
+                      mentor: "ACM (Association for Computing Machinery)"
                     },
-  challenge: "I am currently doing the #100DaysOfCode challenge focused on Full Stack Development using ReactJS and Spring Boot"
+  challenge: "I am currently doing the *AWS Certified Solutions Architect* and *MongoDB Certified Developer* focused on Full Stack Development."
 }
 ```
 
 ### Professional Experience
 
-- **Full Stack Developer Intern @ Agilant Solutions, USA (July 2024 - Sept 2024)**
-  - Collaborated with UI/UX teams to design versatile **ReactJS** components, improving code reusability and delivering a consistent user experience, leading to a 10% faster feature deployment.
-  - Optimized backend services using **Spring Boot**, reducing response times by 30%, contributing to a 15% improvement in transaction completion rates during peak hours.
-  - Devised secure authentication frameworks with **OAuth 2.0** and **JWT**, lowering unauthorized access by 40% and improving customer satisfaction by 12%.
+- **Software Engineer @ Neuro Leap Corporation, USA (Present)**
+•	Built modular, reusable React.js components with Node.js APIs, reducing development time and improving application scalability.
+•	Illustrated responsive, user-friendly interfaces adhering to WCAG guidelines, ensuring cross-device compatibility and accessibility.
+•	Elevated front-end performance by optimizing state management, lazy loading, and Docker-based deployment.
+•	Collaborated with back-end developers to integrate RESTful APIs, for efficient data flow and seamless front-end functionality.
 
-- **Full Stack Web Developer @ Accenture, India (Oct 2021 - July 2023)**
-  - Introduced **Redis caching** within **Spring Boot** to handle growing database loads, cutting read/write latency by 25% and ensuring 18% faster data retrieval, increasing uptime during heavy traffic by 10%.
-  - Engineered scalable **REST APIs** to support microservices migration, improving platform scalability by 20% and reducing infrastructure costs by 15%.
-  - Spearheaded deployment of **Kubernetes clusters** for seamless container orchestration, ensuring zero downtime and high availability during production rollouts.
 
-- **Full Stack Developer @ SMMUD, India (June 2021 - Oct 2021)**
-  - Built dynamic, customer-facing modules using **Next.js** and **FastAPI**, reducing operational inefficiencies by 20% through real-time **MongoDB** synchronization.
-  - Optimized **GraphQL API** performance, decreasing payload sizes by 40% and accelerating page load times, driving higher user retention.
-  - Developed **Progressive Web App (PWA)** features, driving a 20% increase in user engagement and contributing to 15% higher customer retention rates.
+- **Software Engineer @ Saayam For All, USA (Oct 2024 - Nov 2024)**
+•	Designed dynamic user interfaces using React.js and Tailwind CSS, elevating mobile responsiveness across devices.
+•	Integrated AWS services such as Cognito for secure user authentication, S3 for streamlined data storage, and API Gateway for seamless communication with backend microservices.
+•	Led cross-functional teams to establish cloud infrastructure, automate CI/CD deployments, and monitor performance using AWS CloudWatch, revamping operational productivity and scalability.
+
+- **Software Developer Intern @ Veriteam Software Solutions, India (June 2022 - July 2022)**
+•	Facilitated a flexible news feed system leveraging microservices, intensifying user engagement by 35% and revising load time by 20% through modified server-side rendering and efficient database queries.
+•	Regulated real-time data updates with RESTful APIs, overhauling latency by 15% and launching versatile back-end solutions with AWS and CI/CD automation for rapid feature configuration.                                                                                                                             
+- **Software Developer Intern @ SMMUD Technologies Pvt. Ltd, India (Jan 2022 - June 2022)**
+•	Developed scalable web applications using React.js, amplifying page load times by 30% through code splitting and lazy loading. 
+•	Restructured state management, to boost user retention and streamlined MySQL databases, cutting query response by 25%.
+•	Partnered with backend teams to broaden system capacity by 40%, ensuring scalability and  high availability.
+
+- **Data Analyst Intern @ SMMUD Technologies Pvt. Ltd, India (Jan 2021 - Dec 2021)**
+•	Enriched data accuracy by 25% through data cleaning and pre-processing using Python and SQL, automating tasks to scale down effort by 35% and aligning with ERP systems for maximized data management.
+•	Designed and implemented data models and visualizations leveraging Power BI and Tableau, elevating decision-making impact by 40%. Utilized cross-functional data solutions overhauling operational performance by 15%.
+•	Refined SQL queries to expand database capability by 30% and lower query execution time by 20%, strengthening data retrieval processes for timely analysis and better business decisions.
+
+**Data Scientist Intern @ The Sparks Foundation, Bengaluru, India (Dec 2020 - June 2020)**
+•	Executed advanced data analysis and predictive modeling using Python sci-kit-learn, achieving 97% accuracy in K-means clustering on a 16-dimensional iris dataset and 94% accuracy in a student success predictive model.
+
+- **Software Developer Intern @ Techlance Software Solutions, India (Jan 2019 - June 2020)**
+•	Incorporated  a resilient informative platform driving health awareness by 30% and supported 10,000+ users.
+•	Revamped 60+ WordPress pages, magnifying UX and workflows, minimizing server load by 10%.
+•	Managed dynamic web services and data accuracy, utilizing Google Analytics for data-driven decisions and insights on user behavior.
 
 ---
 
@@ -63,8 +80,11 @@ const abhiram = {
 
 ### Projects & Portfolio
 - **Personal Portfolio**: Showcasing my work using **ReactJS** and **Tailwind CSS** [View here](https://abhirambj.github.io/portfolio/)
-- **Expense-Tracker (Sept 2024 - Oct 2024)**: Developed a financial management tool using **FastAPI**, **React**, **Zustand**, and **MongoDB**, providing users with insightful analytics for financial planning and boosting data confidentiality with **JWT** and **Argon2**.
-- **TogaCommerce (July 2024 - Sept 2024)**: Architected a scalable e-commerce platform leveraging **Docker** and load balancing for high availability, resulting in a 15% increase in completed sales.
-- **GitHub**: Check out my repositories on GitHub for more projects and open-source contributions [GitHub Profile](https://github.com/abhirambj)
+- **Facial Expression Recognition using Convolutional Neural Networks**: Directed a Facial Recognition project using Custom CNN and Dense Net models, for optimized image classification.
+- **Optimizing Movie Recommendation for Enhanced User Experience**: Engineered a movie recommendation system with collaborative filtering, increasing user satisfaction by 20%. 
+- **Online Fake News Detection**: Applied R programming and Python with NLP and machine learning models to succeed with 81% detection accuracy.
+- **Demographic Analysis in a Population**: Leveraged PySpark for exploratory data analysis (EDA), improving prediction accuracy by 20% and analytics by 30%.
+- **Histopathologic Cancer Detection Using Lymph Node Tissues**: Spearheaded the creation of a high-precision CNN cancer detection model with Keras, attaining 94.6% precision.
+- **GitHub**: Check out my repositories on GitHub for more projects and open-source contributions [GitHub Profile](https://github.com/Ganya04)
 
 ---
