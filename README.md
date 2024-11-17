@@ -23,7 +23,7 @@ Proficient in React.js, SQL, AWS, Python, and Docker, I specialize in creating d
 const ganya = {
   pronouns: "she" | "her",
   code: ["Javascript", "TypeScript", "HTML", "CSS", "Python", "Java", "ReactJS", "Spring Boot", "Node.js", "NextJS", "FastAPI"],
-  cloudTechnologies: ["AWS", "Docker", "Kubernetes", "AWS Cloud"],
+  cloud technologies: ["AWS", "Docker", "Kubernetes", "AWS Cloud"],
   architecture: ["microservices", "event-driven", "serverless", "design system pattern"],
   databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
   security: ["OAuth 2.0", "JWT", "OpenID Connect", "Argon2", "SSL/TLS"],
@@ -39,38 +39,39 @@ const ganya = {
 
 ### Professional Experience
 
-- **Software Engineer @ Neuro Leap Corporation, USA (Present)**
-•	Built modular, reusable React.js components with Node.js APIs, reducing development time and improving application scalability.
-•	Illustrated responsive, user-friendly interfaces adhering to WCAG guidelines, ensuring cross-device compatibility and accessibility.
-•	Elevated front-end performance by optimizing state management, lazy loading, and Docker-based deployment.
-•	Collaborated with back-end developers to integrate RESTful APIs, for efficient data flow and seamless front-end functionality.
 
+- **Software Engineer @ Neuro Leap Corporation, USA (Present)**
+  - Built modular, reusable React.js components with Node.js APIs, reducing development time and improving application scalability.
+  - Illustrated responsive, user-friendly interfaces adhering to WCAG guidelines, ensuring cross-device compatibility and accessibility.
+  - Elevated front-end performance by optimizing state management, lazy loading, and Docker-based deployment.
+  - Collaborated with back-end developers to integrate RESTful APIs, for efficient data flow and seamless front-end functionality.
 
 - **Software Engineer @ Saayam For All, USA (Oct 2024 - Nov 2024)**
-•	Designed dynamic user interfaces using React.js and Tailwind CSS, elevating mobile responsiveness across devices.
-•	Integrated AWS services such as Cognito for secure user authentication, S3 for streamlined data storage, and API Gateway for seamless communication with backend microservices.
-•	Led cross-functional teams to establish cloud infrastructure, automate CI/CD deployments, and monitor performance using AWS CloudWatch, revamping operational productivity and scalability.
+  - Designed dynamic user interfaces using React.js and Tailwind CSS, elevating mobile responsiveness across devices.
+  - Integrated AWS services such as Cognito for secure user authentication, S3 for streamlined data storage, and API Gateway for seamless communication with backend microservices.
+  - Led cross-functional teams to establish cloud infrastructure, automate CI/CD deployments, and monitor performance using AWS CloudWatch, revamping operational productivity and scalability.
 
 - **Software Developer Intern @ Veriteam Software Solutions, India (June 2022 - July 2022)**
-•	Facilitated a flexible news feed system leveraging microservices, intensifying user engagement by 35% and revising load time by 20% through modified server-side rendering and efficient database queries.
-•	Regulated real-time data updates with RESTful APIs, overhauling latency by 15% and launching versatile back-end solutions with AWS and CI/CD automation for rapid feature configuration.                                                                                                                             
+  - Facilitated a flexible news feed system leveraging microservices, intensifying user engagement by 35% and revising load time by 20% through modified server-side rendering and efficient database queries.
+  - Regulated real-time data updates with RESTful APIs, overhauling latency by 15% and launching versatile back-end solutions with AWS and CI/CD automation for rapid feature configuration.        
+                                                                                                                          
 - **Software Developer Intern @ SMMUD Technologies Pvt. Ltd, India (Jan 2022 - June 2022)**
-•	Developed scalable web applications using React.js, amplifying page load times by 30% through code splitting and lazy loading. 
-•	Restructured state management, to boost user retention and streamlined MySQL databases, cutting query response by 25%.
-•	Partnered with backend teams to broaden system capacity by 40%, ensuring scalability and  high availability.
+  - Developed scalable web applications using React.js, amplifying page load times by 30% through code splitting and lazy loading.
+  - Restructured state management, to boost user retention and streamlined MySQL databases, cutting query response by 25%.
+  - Partnered with backend teams to broaden system capacity by 40%, ensuring scalability and  high availability.
 
 - **Data Analyst Intern @ SMMUD Technologies Pvt. Ltd, India (Jan 2021 - Dec 2021)**
-•	Enriched data accuracy by 25% through data cleaning and pre-processing using Python and SQL, automating tasks to scale down effort by 35% and aligning with ERP systems for maximized data management.
-•	Designed and implemented data models and visualizations leveraging Power BI and Tableau, elevating decision-making impact by 40%. Utilized cross-functional data solutions overhauling operational performance by 15%.
-•	Refined SQL queries to expand database capability by 30% and lower query execution time by 20%, strengthening data retrieval processes for timely analysis and better business decisions.
+-   - Enriched data accuracy by 25% through data cleaning and pre-processing using Python and SQL, automating tasks to scale down effort by 35% and aligning with ERP systems for maximized data management.
+    - Designed and implemented data models and visualizations leveraging Power BI and Tableau, elevating decision-making impact by 40% and utilizing cross-functional data solutions overhauling operational performance by 15%.
+    - Refined SQL queries to expand database capability by 30% and lower query execution time by 20%, strengthening data retrieval processes for timely analysis and better business decisions.
 
-**Data Scientist Intern @ The Sparks Foundation, Bengaluru, India (Dec 2020 - June 2020)**
-•	Executed advanced data analysis and predictive modeling using Python sci-kit-learn, achieving 97% accuracy in K-means clustering on a 16-dimensional iris dataset and 94% accuracy in a student success predictive model.
+- **Data Scientist Intern @ The Sparks Foundation, Bengaluru, India (Dec 2020 - June 2020)**
+     - Executed advanced data analysis and predictive modeling using Python sci-kit-learn, achieving 97% accuracy in K-means clustering on a 16-dimensional iris dataset and 94% accuracy in a student success predictive model.
 
 - **Software Developer Intern @ Techlance Software Solutions, India (Jan 2019 - June 2020)**
-•	Incorporated  a resilient informative platform driving health awareness by 30% and supported 10,000+ users.
-•	Revamped 60+ WordPress pages, magnifying UX and workflows, minimizing server load by 10%.
-•	Managed dynamic web services and data accuracy, utilizing Google Analytics for data-driven decisions and insights on user behavior.
+    - Incorporated  a resilient informative platform driving health awareness by 30% and supported 10,000+ users.
+    - Revamped 60+ WordPress pages, magnifying UX and workflows, minimizing server load by 10%.
+    - Managed dynamic web services and data accuracy, utilizing Google Analytics for data-driven decisions and insights on user behavior.
 
 ---
 
@@ -79,7 +80,7 @@ const ganya = {
 ---
 
 ### Projects & Portfolio
-- **Personal Portfolio**: Showcasing my work using **ReactJS** and **Tailwind CSS** [View here](https://abhirambj.github.io/portfolio/)
+- **Personal Portfolio**: Showcasing my work using **ReactJS** and **Tailwind CSS** [View here](https://ganya04.github.io/portfolio/)
 - **Facial Expression Recognition using Convolutional Neural Networks**: Directed a Facial Recognition project using Custom CNN and Dense Net models, for optimized image classification.
 - **Optimizing Movie Recommendation for Enhanced User Experience**: Engineered a movie recommendation system with collaborative filtering, increasing user satisfaction by 20%. 
 - **Online Fake News Detection**: Applied R programming and Python with NLP and machine learning models to succeed with 81% detection accuracy.
