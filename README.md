@@ -4,12 +4,15 @@
 
 ## Hey! 👋
 
-I'm Ganya Janardhan, a **Software Engineer** and **Data Analyst** based in Chicago, IL, with 2+ years of experience designing scalable, high-performance web applications and data-driven solutions.  
+I’m a **Data Professional** with experience spanning data analytics, data engineering, and data science — bringing together the analytical depth of a scientist, the systems thinking of an engineer, and the storytelling mindset of an analyst.  
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
-<p><em>I hold a Master's in Computer Science from <a href="https://www.iit.edu/">Illinois Institute of Technology, Chicago</a>  specializing in Data Analytics. Currently, I work as a Software Engineer at Neuro Leap Corporation, where I focus on building modular, scalable web applications, optimizing performance, and ensuring seamless integration of front-end and back-end systems. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>I hold a Master's in Computer Science from <a href="https://www.iit.edu/">Illinois Institute of Technology, Chicago</a>  specializing in Data Analytics. Over the years, I’ve worked on projects that turn raw data into insight and insight into impact — from building scalable data pipelines and cloud-based analytics platforms to developing predictive models and interactive dashboards that empower business decisions. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-Proficient in React.js, SQL, AWS, Python, and Docker, I specialize in creating dynamic interfaces, optimizing database performance, and leveraging cloud technologies for seamless applications. With experience in machine learning models and interactive dashboards, I continuously expand my expertise through certifications and impactful projects, driving innovation and digital transformation.
+🧠 Core Skills: Data Engineering | Machine Learning | Analytics | Visualization
+💻 Tech Stack: Python, SQL, JavaScript (Node.js, React), PySpark, Databricks, Snowflake, Azure, AWS, Airflow, Docker, Power BI, Tableau
+
+What drives me is building data systems that don’t just crunch numbers — they explain why things happen and help teams act smarter.
 
 [![Twitter: Ganya Janardhan](https://img.shields.io/twitter/follow/ganya_janardhan?style=social)](https://x.com/ganya_janardhan)  
 [![LinkedIn: Ganya Janardhan](https://img.shields.io/badge/-ganya--janardhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganya-janardhan/)](https://www.linkedin.com/in/ganya-janardhan/)  
@@ -22,57 +25,51 @@ Proficient in React.js, SQL, AWS, Python, and Docker, I specialize in creating d
 ```javascript
 const ganya = {
   pronouns: "she" | "her",
-  code: ["Javascript", "TypeScript", "HTML", "CSS", "Python", "Java", "ReactJS", "Spring Boot", "Node.js", "NextJS", "FastAPI"],
-  cloud technologies: ["AWS", "Docker", "Kubernetes", "AWS Cloud"],
-  architecture: ["microservices", "event-driven", "serverless", "design system pattern"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-  security: ["OAuth 2.0", "JWT", "OpenID Connect", "Argon2", "SSL/TLS"],
+  code: ["Python", "SQL", "JavaScript", "TypeScript", "HTML", "CSS", "Node.js", "Vue.js", "React", "FastAPI"],
+  data_engineering: ["PySpark", "dbt", "Databricks", "Airflow", "Kafka", "ETL Pipelines"],
+  machine_learning: ["TensorFlow", "Scikit-learn", "XGBoost", "Generative AI", "Deep Learning", "Explainable AI"],
+  cloud_technologies: ["Azure", "AWS", "GCP", "Docker", "Kubernetes", "Snowflake", "BigQuery"],
+  architecture: ["Microservices", "Event-driven Systems", "Serverless Design", "Data Lakehouse Architecture"],
+  databases: ["PostgreSQL", "MongoDB", "Snowflake", "BigQuery", "SQL Server"],
+  visualization: ["Power BI", "Tableau", "Looker", "Matplotlib", "Seaborn"],
+  devops: ["Git", "Bitbucket", "Jenkins", "CI/CD", "MLflow"],
+  interests: ["AI for Drug Discovery", "Biomedical Data Science", "Data Visualization", "Cloud Engineering"],
+  currently_learning: [
+    "Representation Learning",
+    "Generative AI for Healthcare",
+    "AWS Certified Solutions Architect"
+  ],
   techCommunities: {
                       systemAdministrator: "DSC (Developers Students Club of Google)",
                       coordinator: "TAP (Training and Placement Department)",
                       speaker: "ASPERA (ASPERA - Entrepreneurship Cell)",
                       mentor: "ACM (Association for Computing Machinery)"
                     },
-  challenge: "I am currently doing the *AWS Certified Solutions Architect* and *MongoDB Certified Developer* focused on Full Stack Development."
 }
 ```
 
 ### Professional Experience
 
 
-- **Software Engineer @ Neuro Leap Corporation, USA (Present)**
-  - Built modular, reusable React.js components with Node.js APIs, reducing development time and improving application scalability.
-  - Illustrated responsive, user-friendly interfaces adhering to WCAG guidelines, ensuring cross-device compatibility and accessibility.
-  - Elevated front-end performance by optimizing state management, lazy loading, and Docker-based deployment.
-  - Collaborated with back-end developers to integrate RESTful APIs, for efficient data flow and seamless front-end functionality.
+- **Data Analytics Engineer | Hub Group, USA (April 2025 – Present)**
+  - Architecting cloud-based data and ML workflows using Databricks, PySpark, and Snowflake.
+  - Building forecasting and anomaly detection pipelines that support logistics optimization.
+  - Developing explainable AI dashboards and monitoring systems ensuring transparency and governance.
+  - Collaborating with cross-functional teams to translate analytical models into production-ready systems.
 
-- **Software Engineer @ Saayam For All, USA (Oct 2024 - Nov 2024)**
-  - Designed dynamic user interfaces using React.js and Tailwind CSS, elevating mobile responsiveness across devices.
-  - Integrated AWS services such as Cognito for secure user authentication, S3 for streamlined data storage, and API Gateway for seamless communication with backend microservices.
-  - Led cross-functional teams to establish cloud infrastructure, automate CI/CD deployments, and monitor performance using AWS CloudWatch, revamping operational productivity and scalability.
+- **Data Analytics Engineer | DaVita, USA (Jan 2024 - Mar 2025)**
+  - Designed data-centric ML pipelines spanning ingestion (BigQuery/dbt), modeling (TensorFlow/XGBoost), and deployment (Docker/CI-CD).
+  - Wrote Python microservices and API endpoints to connect predictive models to clinical decision systems.
+  - Applied probabilistic reasoning and explainable ML (SHAP, LIME) to improve transparency in patient-level predictions.
+  - Integrated data validation frameworks and automated testing to ensure reproducibility across experiments.
+  - Collaborated with research and product teams to prototype foundation models and representation learning in healthcare analytics.
 
-- **Software Developer Intern @ Veriteam Software Solutions, India (June 2022 - July 2022)**
-  - Facilitated a flexible news feed system leveraging microservices, intensifying user engagement by 35% and revising load time by 20% through modified server-side rendering and efficient database queries.
-  - Regulated real-time data updates with RESTful APIs, overhauling latency by 15% and launching versatile back-end solutions with AWS and CI/CD automation for rapid feature configuration.        
-                                                                                                                          
-- **Software Developer Intern @ SMMUD Technologies Pvt. Ltd, India (Jan 2022 - June 2022)**
-  - Developed scalable web applications using React.js, amplifying page load times by 30% through code splitting and lazy loading.
-  - Restructured state management, to boost user retention and streamlined MySQL databases, cutting query response by 25%.
-  - Partnered with backend teams to broaden system capacity by 40%, ensuring scalability and  high availability.
-
-- **Data Analyst Intern @ SMMUD Technologies Pvt. Ltd, India (Jan 2021 - Dec 2021)**
--   - Enriched data accuracy by 25% through data cleaning and pre-processing using Python and SQL, automating tasks to scale down effort by 35% and aligning with ERP systems for maximized data management.
-    - Designed and implemented data models and visualizations leveraging Power BI and Tableau, elevating decision-making impact by 40% and utilizing cross-functional data solutions overhauling operational performance by 15%.
-    - Refined SQL queries to expand database capability by 30% and lower query execution time by 20%, strengthening data retrieval processes for timely analysis and better business decisions.
-
-- **Data Scientist Intern @ The Sparks Foundation, Bengaluru, India (Dec 2020 - June 2020)**
-     - Executed advanced data analysis and predictive modeling using Python sci-kit-learn, achieving 97% accuracy in K-means clustering on a 16-dimensional iris dataset and 94% accuracy in a student success predictive model.
-
-- **Software Developer Intern @ Techlance Software Solutions, India (Jan 2019 - June 2020)**
-    - Incorporated  a resilient informative platform driving health awareness by 30% and supported 10,000+ users.
-    - Revamped 60+ WordPress pages, magnifying UX and workflows, minimizing server load by 10%.
-    - Managed dynamic web services and data accuracy, utilizing Google Analytics for data-driven decisions and insights on user behavior.
-
+- **Data Engineer | Smmud Technologies, India | (Jan 2020 - June 2022)**
+  - Engineered real-time and batch data pipelines using AWS Glue, Airflow, and Python, supporting analytics and reporting systems.
+  - Built microservice-based data APIs and REST integrations for internal analytics products.
+  - Deployed containerized ETL workloads using Docker and optimized performance via asynchronous task design.
+  - Designed ML experimentation frameworks with versioned datasets and model tracking using MLflow.
+  - Collaborated on data visualization dashboards (Power BI, Tableau) and supported continuous integration workflows in Git and Bitbucket.
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so feel free to reach out and say <b>hi</b>—I’m always open to exciting discussions and new opportunities!</em>
