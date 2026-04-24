@@ -95,7 +95,6 @@ const ganya = {
 ### Projects & Portfolio
 
 - **Personal Portfolio**: Built using React and Tailwind CSS  
-  🔗 https://ganya04.github.io/portfolio/
 
 - **Operational Data Platform (Palantir Foundry)**  
   Built data pipelines and ontology models to integrate operational datasets and support issue tracking workflows.
